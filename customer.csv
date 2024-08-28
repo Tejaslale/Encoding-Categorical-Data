@@ -1,0 +1,101 @@
+age,gender,review,education,purchase
+69,Male,Good,PhD,No
+49,Male,Bad,High School,No
+43,Female,Good,PhD,No
+39,Female,Good,High School,No
+54,Male,Good,Bachelor's,No
+46,Male,Bad,Bachelor's,No
+43,Female,Bad,High School,No
+52,Male,Bad,PhD,Yes
+22,Female,Bad,High School,Yes
+49,Male,Bad,Master's,Yes
+41,Male,Good,Master's,Yes
+55,Female,Good,Master's,No
+61,Female,Bad,High School,Yes
+42,Female,Bad,PhD,No
+38,Male,Good,PhD,No
+24,Female,Bad,Bachelor's,Yes
+33,Male,Bad,Master's,Yes
+51,Female,Bad,Bachelor's,Yes
+36,Female,Good,Bachelor's,Yes
+57,Female,Bad,Master's,Yes
+48,Female,Bad,High School,No
+35,Female,Bad,Master's,No
+63,Male,Good,PhD,Yes
+61,Male,Bad,Master's,No
+69,Male,Bad,Bachelor's,No
+59,Male,Bad,Bachelor's,No
+62,Female,Bad,Master's,Yes
+48,Male,Bad,High School,Yes
+54,Female,Bad,PhD,Yes
+51,Male,Bad,PhD,Yes
+25,Male,Good,High School,Yes
+20,Female,Bad,High School,No
+41,Male,Bad,Master's,No
+23,Female,Bad,PhD,Yes
+44,Female,Bad,High School,Yes
+60,Male,Good,PhD,No
+23,Female,Bad,Master's,Yes
+49,Male,Good,High School,No
+49,Male,Bad,Bachelor's,No
+57,Male,Good,Master's,No
+64,Female,Bad,Master's,Yes
+37,Female,Good,High School,Yes
+39,Male,Good,Master's,No
+28,Female,Good,Bachelor's,No
+47,Male,Good,Bachelor's,No
+62,Female,Bad,High School,Yes
+38,Male,Bad,High School,No
+41,Female,Bad,PhD,No
+43,Male,Good,High School,No
+24,Male,Good,PhD,No
+29,Female,Bad,High School,Yes
+30,Male,Good,PhD,No
+53,Male,Bad,PhD,Yes
+31,Female,Bad,PhD,Yes
+37,Male,Good,High School,No
+32,Male,Good,High School,No
+55,Female,Good,High School,No
+51,Male,Bad,Bachelor's,No
+57,Male,Good,High School,Yes
+32,Male,Bad,PhD,Yes
+68,Female,Good,Bachelor's,Yes
+66,Male,Bad,PhD,No
+55,Female,Good,High School,No
+23,Female,Bad,PhD,Yes
+20,Female,Good,Bachelor's,No
+44,Male,Good,Bachelor's,Yes
+30,Male,Good,PhD,Yes
+53,Female,Good,PhD,No
+41,Male,Good,Master's,Yes
+31,Male,Good,Bachelor's,No
+28,Male,Good,PhD,Yes
+55,Male,Bad,Master's,Yes
+23,Male,Bad,High School,Yes
+69,Male,Good,Master's,Yes
+61,Male,Bad,Bachelor's,Yes
+38,Male,Good,High School,Yes
+69,Female,Bad,PhD,No
+21,Female,Good,Master's,No
+48,Female,Bad,PhD,No
+56,Female,Bad,PhD,No
+61,Female,Bad,Master's,Yes
+59,Female,Bad,High School,Yes
+31,Female,Good,High School,Yes
+66,Female,Good,High School,Yes
+64,Male,Bad,Master's,No
+22,Female,Bad,PhD,Yes
+58,Female,Bad,Bachelor's,Yes
+61,Female,Bad,Master's,Yes
+25,Female,Bad,Master's,Yes
+55,Female,Bad,PhD,No
+47,Male,Good,Master's,Yes
+58,Male,Bad,Master's,No
+47,Female,Bad,Master's,No
+61,Male,Good,PhD,Yes
+37,Female,Bad,Bachelor's,Yes
+33,Male,Bad,Bachelor's,No
+18,Male,Good,Bachelor's,No
+24,Male,Good,Master's,Yes
+40,Male,Bad,High School,No
+55,Male,Bad,Master's,Yes
